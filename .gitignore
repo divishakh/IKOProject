@@ -1,7 +1,10 @@
 venv/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-*.pkl
-*.h5
-*.pt
+.env
+data/
+*.zip
+results/
+models/*.joblib
+node_modules/
+*.db
